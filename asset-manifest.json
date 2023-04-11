@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dniemeyer-estudos/static/css/main.e6c13ad2.css",
+    "main.js": "/dniemeyer-estudos/static/js/main.f7e1b57f.js",
+    "static/js/787.25012ba8.chunk.js": "/dniemeyer-estudos/static/js/787.25012ba8.chunk.js",
+    "static/media/foto.jpg": "/dniemeyer-estudos/static/media/foto.5cc25d68ee7a88345929.jpg",
+    "index.html": "/dniemeyer-estudos/index.html",
+    "main.e6c13ad2.css.map": "/dniemeyer-estudos/static/css/main.e6c13ad2.css.map",
+    "main.f7e1b57f.js.map": "/dniemeyer-estudos/static/js/main.f7e1b57f.js.map",
+    "787.25012ba8.chunk.js.map": "/dniemeyer-estudos/static/js/787.25012ba8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f7e1b57f.js"
+  ]
+}
